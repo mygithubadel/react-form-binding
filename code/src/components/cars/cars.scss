@@ -1,0 +1,42 @@
+.buy-a-car{
+    &-wrapper{
+      width: 400px;
+      border: 1px solid black;
+      font-size: 18px;
+      margin: 0 auto;
+    }
+  
+    &-title, &-button, &-filter{
+      padding: 20px;
+    }
+  
+    &-filter{
+      border-top: 1px solid black;
+      border-bottom: 1px solid black;
+    }
+  
+    &-field{
+      padding: 10px 0;
+      
+      label{
+        width: 30%;
+        display: inline-block;
+      }
+  
+      select, input{
+        width: 70%;
+        display: inline-block;
+      }
+    }
+  
+    &-button button{
+      width: 100%;
+      margin: 0 auto;
+    }
+  
+  
+    &-button button[disabled]{
+      color: gray;
+    }
+
+  }

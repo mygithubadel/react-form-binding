@@ -1,0 +1,15 @@
+{
+  "name": "frontend-task-api",
+  "version": "1.0.0",
+  "description": "serves car brands and models",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "node index.js"
+  },
+  "author": "adil abu-saif",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
