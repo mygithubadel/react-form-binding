@@ -1,6 +1,6 @@
-# Car Search Form Filter
+# Form Binding using React
 
-a simple form with binding feature used for searching for cars
+a simple form with binding feature used that can be used for filtering / searching
 
 ## Architecture
 - frontend: React.js
@@ -57,6 +57,7 @@ Made sure to split the concerns and the functionalities of each area of the syst
 
 ## Usage
 - Backend:
+    - run 'npm install' first to install the dependencies
     - run 'npm start' inside the 'api' directory
 - Frontend:
     - run 'npm install' first to install the dependencies
