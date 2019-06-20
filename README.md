@@ -1,6 +1,6 @@
-# Car Search Form Filter
+# Form Binding using React
 
-a simple form with binding feature used for searching for cars
+a simple form with binding feature used that can be used for filtering / searching
 
 ## Architecture
 - frontend: React.js
