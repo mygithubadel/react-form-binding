@@ -57,6 +57,7 @@ Made sure to split the concerns and the functionalities of each area of the syst
 
 ## Usage
 - Backend:
+    - run 'npm install' first to install the dependencies
     - run 'npm start' inside the 'api' directory
 - Frontend:
     - run 'npm install' first to install the dependencies
