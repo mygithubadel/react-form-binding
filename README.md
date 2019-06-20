@@ -1,10 +1,10 @@
-# Form Binding using React
+# Form Fields Binding using React
 
 a simple form with binding feature used that can be used for filtering / searching
 
 ## Architecture
 - frontend: React.js
-    - its pretty useful to utilize the states and the component lifecycle that React provides in order to update the information of the fields in this example
+    - its useful to utilize the states and the component lifecycle that React provides in order to update the information of the fields in this example
         - used a stateful component ( CarsFormFilter ) to fetch the data and handle user's input using the local state of the component and wrap other stateless components
         - used two stateless components to output the HTML needed for the select and input fields
 
