@@ -1,6 +1,6 @@
 # Form Fields Binding using React
 
-a simple form with binding feature used that can be used for filtering / searching
+a simple form with binding feature that can be used for filtering / searching
 
 ## Architecture
 - frontend: React.js
